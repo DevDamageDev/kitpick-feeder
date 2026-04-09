@@ -6,12 +6,6 @@
       "title": "Suggested Channels",
       "resources": [
         {
-          "name": "Andy's Hobby Headquarters",
-          "platform": "youtube",
-          "url": "https://www.youtube.com/@AndysHobbyHeadquarters",
-          "description": "Beginner-friendly builds, tutorials and news"
-        },
-        {
           "name": "PLASMO",
           "platform": "youtube",
           "url": "https://www.youtube.com/@idaemonplasmo",
@@ -28,6 +22,12 @@
           "platform": "youtube",
           "url": "https://youtube.com/@Panzermeister36",
           "description": "Armor modeling with detailed painting and weathering walkthroughs"
+        },
+        {
+          "name": "Andy's Hobby Headquarters",
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@AndysHobbyHeadquarters",
+          "description": "Beginner-friendly builds, tutorials and news"
         }
       ]
     },
@@ -38,7 +38,7 @@
           "name": "Scalemates",
           "platform": "blog",
           "url": "https://www.scalemates.com",
-          "description": "The definitive database for scale model kits — reviews, photos, and specs"
+          "description": "The definitive database for scale model kits â reviews, photos, and specs"
         }
       ]
     }
