@@ -3,25 +3,19 @@
   "updated": "2026-04-09",
   "sections": [
     {
-      "title": "Build Tutorials",
+      "title": "Suggested Channels",
       "resources": [
-        {
-          "name": "PLASMO",
-          "platform": "youtube",
-          "url": "https://youtube.com/@paborern",
-          "description": "Satisfying long-form builds from start to finish with minimal narration"
-        },
-        {
-          "name": "Quick Kits",
-          "platform": "youtube",
-          "url": "https://youtube.com/@QuickKits",
-          "description": "Approachable builds with clear step-by-step explanations"
-        },
         {
           "name": "Andy's Hobby Headquarters",
           "platform": "youtube",
-          "url": "https://youtube.com/@AndysHobbyHeadquarters",
-          "description": "Relaxed build sessions with practical tips for all skill levels"
+          "url": "https://www.youtube.com/@AndysHobbyHeadquarters",
+          "description": "Beginner-friendly builds, tutorials and news"
+        },
+        {
+          "name": "PLASMO",
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@idaemonplasmo",
+          "description": "Some of the most insane professional builds"
         }
       ]
     },
