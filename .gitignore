@@ -1,4 +1,5 @@
-# Only resources.json should be tracked
+# Only resources.json and editor.html should be tracked
 *
 !.gitignore
 !resources.json
+!editor.html
