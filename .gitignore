@@ -1,0 +1,4 @@
+# Only resources.json should be tracked
+*
+!.gitignore
+!resources.json
