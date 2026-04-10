@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updated": "2026-04-09",
+  "updated": "2026-04-10",
   "sections": [
     {
-      "title": "Suggested Channels",
+      "title": "Youtube",
       "resources": [
         {
           "name": "PLASMO",
@@ -28,6 +28,17 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@AndysHobbyHeadquarters",
           "description": "Beginner-friendly builds, tutorials and news"
+        }
+      ]
+    },
+    {
+      "title": "Instagram",
+      "resources": [
+        {
+          "name": "model_masters_",
+          "platform": "instagram",
+          "url": "https://www.instagram.com/model_masters_/",
+          "description": "Inspiring Scale Model Tutorials"
         }
       ]
     },
