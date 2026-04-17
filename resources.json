@@ -1,33 +1,33 @@
 {
   "version": 1,
-  "updated": "2026-04-16",
+  "updated": "2026-04-17",
   "sections": [
     {
-      "title": "Suggested Channels",
+      "title": "Recommended videos",
       "resources": [
         {
           "name": "PLASMO",
           "platform": "youtube",
-          "url": "https://www.youtube.com/@idaemonplasmo",
-          "description": "Masterclass in scale model building, from sprue to finished display."
+          "url": "https://youtu.be/lVHnDse_qfM?si=Soyted2S-RsA3PiR",
+          "description": "Ju-87 G-2 Stuka Winter - Hobby2000 / Academy - 1/72 - Aircraft Model"
         },
         {
           "name": "Night Shift",
           "platform": "youtube",
-          "url": "https://youtube.com/@NightShiftScaleModels",
-          "description": "Advanced weathering techniques with a focus on armor and AFVs"
+          "url": "https://youtu.be/H9NEs4rokAI?si=TzQhadH1hjA5stpz",
+          "description": "The Most Difficult Scale Model I Ever Painted: Pacific P16"
         },
         {
           "name": "Panzermeister36",
           "platform": "youtube",
-          "url": "https://youtube.com/@Panzermeister36",
-          "description": "Armor modeling with detailed painting and weathering walkthroughs"
+          "url": "https://youtu.be/LdvSOStgC8Q?si=HdffIUjMb9sLy9q7",
+          "description": "How to Make a Simple North Africa Base in 1/35 Scale -- 501 s.Pz.Abt Tunisia 1943"
         },
         {
           "name": "Andy's Hobby Headquarters",
           "platform": "youtube",
-          "url": "https://www.youtube.com/@AndysHobbyHeadquarters",
-          "description": "Beginner-friendly builds, tutorials and news"
+          "url": "https://youtu.be/HLXX1Lwfveo?si=4Ub7Rs6nKEf8z_ux",
+          "description": "IT'S FINALLY HERE ,TAMIYA 'S 1/35 M24 CHAFFEE FULL PREVIEW VIDEO"
         }
       ]
     },
