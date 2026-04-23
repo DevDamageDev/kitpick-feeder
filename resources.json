@@ -1,10 +1,16 @@
 {
   "version": 1,
-  "updated": "2026-04-17",
+  "updated": "2026-04-23",
   "sections": [
     {
       "title": "Recommended videos",
       "resources": [
+        {
+          "name": "Andy's Hobby Headquarters",
+          "platform": "youtube",
+          "url": "https://youtu.be/iUxAfZR0a6Q?si=fBq62ZU2R5bRpBGV",
+          "description": "FIRST LOOK Takom T28 & M28 Super Heavy tanks"
+        },
         {
           "name": "PLASMO",
           "platform": "youtube",
@@ -22,12 +28,6 @@
           "platform": "youtube",
           "url": "https://youtu.be/LdvSOStgC8Q?si=HdffIUjMb9sLy9q7",
           "description": "How to Make a Simple North Africa Base in 1/35 Scale -- 501 s.Pz.Abt Tunisia 1943"
-        },
-        {
-          "name": "Andy's Hobby Headquarters",
-          "platform": "youtube",
-          "url": "https://youtu.be/HLXX1Lwfveo?si=4Ub7Rs6nKEf8z_ux",
-          "description": "IT'S FINALLY HERE ,TAMIYA 'S 1/35 M24 CHAFFEE FULL PREVIEW VIDEO"
         }
       ]
     },
