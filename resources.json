@@ -6,6 +6,12 @@
       "title": "Recommended videos",
       "resources": [
         {
+          "name": "Sprue Goo",
+          "platform": "youtube",
+          "url": "https://youtu.be/MPQTiQOlCvY?si=r0BRgPHsUjbXdONr",
+          "description": "7 Airbrush Tips To Help You Level Up | How To Airbrush"
+        },
+        {
           "name": "Andy's Hobby Headquarters",
           "platform": "youtube",
           "url": "https://youtu.be/iUxAfZR0a6Q?si=fBq62ZU2R5bRpBGV",
@@ -28,12 +34,6 @@
           "platform": "youtube",
           "url": "https://youtu.be/LdvSOStgC8Q?si=HdffIUjMb9sLy9q7",
           "description": "How to Make a Simple North Africa Base in 1/35 Scale -- 501 s.Pz.Abt Tunisia 1943"
-        },
-        {
-          "name": "Sprue Goo",
-          "platform": "youtube",
-          "url": "https://youtu.be/MPQTiQOlCvY?si=r0BRgPHsUjbXdONr",
-          "description": "7 Airbrush Tips To Help You Level Up | How To Airbrush"
         }
       ]
     },
