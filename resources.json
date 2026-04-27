@@ -1,10 +1,16 @@
 {
   "version": 1,
-  "updated": "2026-04-25",
+  "updated": "2026-04-27",
   "sections": [
     {
       "title": "Recommended videos",
       "resources": [
+        {
+          "name": "METTLE",
+          "platform": "youtube",
+          "url": "https://youtu.be/bRLzq3kHkx0?si=ou9OroVlr4W-ShfZ",
+          "description": "What Happened to Airfix? How UK’s Model Empire Vanished"
+        },
         {
           "name": "Sprue Goo",
           "platform": "youtube",
