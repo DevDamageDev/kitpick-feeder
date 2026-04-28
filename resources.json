@@ -1,27 +1,27 @@
 {
   "version": 1,
-  "updated": "2026-04-27",
+  "updated": "2026-04-28",
   "sections": [
     {
       "title": "Recommended videos",
       "resources": [
         {
+          "name": "Andy's Hobby Headquarters",
+          "platform": "youtube",
+          "url": "https://youtu.be/Rt7eYcTLda4?si=iRzBdnhDDvn63VAy",
+          "description": "Tamiya 1/35 M24 Chaffee Build Video, Is it a good kit?"
+        },
+        {
           "name": "METTLE",
           "platform": "youtube",
           "url": "https://youtu.be/bRLzq3kHkx0?si=ou9OroVlr4W-ShfZ",
-          "description": "What Happened to Airfix? How UK’s Model Empire Vanished"
+          "description": "What Happened to Airfix? How UK's Model Empire Vanished"
         },
         {
           "name": "Sprue Goo",
           "platform": "youtube",
           "url": "https://youtu.be/MPQTiQOlCvY?si=r0BRgPHsUjbXdONr",
           "description": "7 Airbrush Tips To Help You Level Up | How To Airbrush"
-        },
-        {
-          "name": "Andy's Hobby Headquarters",
-          "platform": "youtube",
-          "url": "https://youtu.be/iUxAfZR0a6Q?si=fBq62ZU2R5bRpBGV",
-          "description": "FIRST LOOK Takom T28 & M28 Super Heavy tanks"
         },
         {
           "name": "PLASMO",
