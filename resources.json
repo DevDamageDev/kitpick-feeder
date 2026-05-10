@@ -6,6 +6,12 @@
       "title": "Recommended videos",
       "resources": [
         {
+          "name": "espacio_virtual_modelista",
+          "platform": "instagram",
+          "url": "https://www.instagram.com/espacio_virtual_modelista/",
+          "description": "Inspiring scale modelling"
+        },
+        {
           "name": "Sprue Goo",
           "platform": "youtube",
           "url": "https://youtu.be/a82qTcMcRTY?si=k4prI45IOt4MQku7",
@@ -22,12 +28,6 @@
           "platform": "youtube",
           "url": "https://youtu.be/bRLzq3kHkx0?si=ou9OroVlr4W-ShfZ",
           "description": "What Happened to Airfix? How UK's Model Empire Vanished"
-        },
-        {
-          "name": "Sprue Goo",
-          "platform": "youtube",
-          "url": "https://youtu.be/MPQTiQOlCvY?si=r0BRgPHsUjbXdONr",
-          "description": "7 Airbrush Tips To Help You Level Up | How To Airbrush"
         },
         {
           "name": "PLASMO",
