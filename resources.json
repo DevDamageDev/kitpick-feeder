@@ -1,10 +1,16 @@
 {
   "version": 1,
-  "updated": "2026-04-28",
+  "updated": "2026-05-10",
   "sections": [
     {
       "title": "Recommended videos",
       "resources": [
+        {
+          "name": "Sprue Goo",
+          "platform": "youtube",
+          "url": "https://youtu.be/a82qTcMcRTY?si=k4prI45IOt4MQku7",
+          "description": "Scale Model Paint Types, EXPLAINED"
+        },
         {
           "name": "Andy's Hobby Headquarters",
           "platform": "youtube",
