@@ -1,10 +1,16 @@
 {
   "version": 1,
-  "updated": "2026-05-10",
+  "updated": "2026-05-12",
   "sections": [
     {
       "title": "Recommended videos",
       "resources": [
+        {
+          "name": "Andy's Hobby Headquarters",
+          "platform": "youtube",
+          "url": "https://youtu.be/udH-a7fRbJk?si=vP7unLMXrJ_UYv5z",
+          "description": "The New Tamiya Plamodel Factory Store Tour (Andy's Hobby Headquarters in Tokyo)"
+        },
         {
           "name": "espacio_virtual_modelista",
           "platform": "instagram",
@@ -16,12 +22,6 @@
           "platform": "youtube",
           "url": "https://youtu.be/a82qTcMcRTY?si=k4prI45IOt4MQku7",
           "description": "Scale Model Paint Types, EXPLAINED"
-        },
-        {
-          "name": "Andy's Hobby Headquarters",
-          "platform": "youtube",
-          "url": "https://youtu.be/Rt7eYcTLda4?si=iRzBdnhDDvn63VAy",
-          "description": "Tamiya 1/35 M24 Chaffee Build Video, Is it a good kit?"
         },
         {
           "name": "METTLE",
