@@ -1,10 +1,16 @@
 {
   "version": 1,
-  "updated": "2026-05-12",
+  "updated": "2026-06-05",
   "sections": [
     {
       "title": "Recommended videos",
       "resources": [
+        {
+          "name": "Night Shift",
+          "platform": "youtube",
+          "url": "https://youtu.be/1SIWH0P1nmE?si=HFRah4hWHojCRTQl",
+          "description": "Tamiya ALMOST Made The Ultimate Armor Model (Leopard 2A7V 1/48)"
+        },
         {
           "name": "Andy's Hobby Headquarters",
           "platform": "youtube",
@@ -34,12 +40,6 @@
           "platform": "youtube",
           "url": "https://youtu.be/lVHnDse_qfM?si=Soyted2S-RsA3PiR",
           "description": "Ju-87 G-2 Stuka Winter - Hobby2000 / Academy - 1/72 - Aircraft Model"
-        },
-        {
-          "name": "Night Shift",
-          "platform": "youtube",
-          "url": "https://youtu.be/H9NEs4rokAI?si=TzQhadH1hjA5stpz",
-          "description": "The Most Difficult Scale Model I Ever Painted: Pacific P16"
         },
         {
           "name": "Panzermeister36",
