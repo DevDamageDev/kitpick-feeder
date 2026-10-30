@@ -1,10 +1,16 @@
 {
   "version": 1,
-  "updated": "2026-10-29",
+  "updated": "2026-10-30",
   "sections": [
     {
       "title": "Recommended videos",
       "resources": [
+        {
+          "name": "Hammerhead Model Making",
+          "platform": "youtube",
+          "url": "https://youtu.be/Wfi1k2FwzNA?si=o91B6SvXZldMT2M4",
+          "description": "Tamiya 1/48 P-47D Razorback \"Stinger V\" | Full Build Video"
+        },
         {
           "name": "The Inner Nerd Scale Modeling",
           "platform": "youtube",
